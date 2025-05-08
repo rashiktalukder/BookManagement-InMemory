@@ -52,3 +52,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/BookManagement-InMemory/.vs/BookManagement-InMemory/v17
+/BookManagement-InMemory/BookManagement-InMemory/Properties
+/BookManagement-InMemory/.vs/BookManagement-InMemory/FileContentIndex
